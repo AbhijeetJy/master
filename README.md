@@ -1,3 +1,2 @@
-Hello
-what is this.sssd
-ive edited this note
+this is the only thing now after merge conflict.!
+
