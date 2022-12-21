@@ -1,0 +1,7 @@
+Hello
+<<<<<<< HEAD
+what is this.sssd
+ive edited this note
+=======
+this is my second edit.
+>>>>>>> 2dccc20 (second edit)
