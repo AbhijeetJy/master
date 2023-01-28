@@ -1,2 +1,1 @@
-Hello
-
+python -m unittest filename.py
